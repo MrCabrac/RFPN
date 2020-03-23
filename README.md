@@ -6,3 +6,5 @@ RFPN (Reconocimiento de Frases Positivas y Negativas) usa las librerías de Pyth
 Se puede usar con la consola de comandos:
 * `python entrenar.py`
 * `python predecir.py "text"`
+
+En colaboración con: Cristian Castañeda
