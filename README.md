@@ -4,5 +4,5 @@ RFPN (Reconocimiento de Frases Positivas y Negativas) usa las librerías de Pyth
 * Oraciones en **INGLÉS**
 
 Se puede usar con la consola de comandos:
-`<addr>` python entrenar.py
-`<addr>` python predecir.py "text"
+* `python entrenar.py`
+* `python predecir.py "text"`
