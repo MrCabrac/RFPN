@@ -1,0 +1,1 @@
+@tudipa Sorry that manage files on external SD card via AirDroid is not supported now (Android 4.4+) :( Google has restricted that.

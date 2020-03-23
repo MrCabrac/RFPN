@@ -1,0 +1,1 @@
+Pffff doing a private @Bugcrowd #bugbounty and only finding self-XSS and host header poisoning :( Need some code execution #ktksbye

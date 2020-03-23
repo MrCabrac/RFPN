@@ -1,0 +1,1 @@
+@DavidBraben Why'd you program it for Acorn originally by the way, since C64 was (apart from the CPU) considerably more advanced? :)

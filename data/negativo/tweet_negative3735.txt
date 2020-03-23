@@ -1,0 +1,1 @@
+I'll just have to write a bunch of ugly setter functions... :(

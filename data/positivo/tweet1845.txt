@@ -1,0 +1,1 @@
+@Mapbox Nice! Can we use it on non-Mapbox maps or is still restricted to be used only with Mapbox basemaps? (contractually speaking :))

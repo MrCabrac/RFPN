@@ -1,0 +1,3 @@
+As an act of mischievousness, am calling the ETL layer of our in-house warehousing app Katamari.
+
+Well… as the name implies :p.

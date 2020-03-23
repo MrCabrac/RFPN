@@ -1,0 +1,1 @@
+@ilkkalaukkanen ok, nice :) Btw 0.7.1 is coming today.. we try to fix those package dependencies there.
